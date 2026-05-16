@@ -59,7 +59,7 @@ export default function Navbar() {
 
         {/* MOBILE MENU */}
         <Sheet>
-          <SheetTrigger asChild>
+          <SheetTrigger>
             <Button
               size="icon"
               variant="ghost"
